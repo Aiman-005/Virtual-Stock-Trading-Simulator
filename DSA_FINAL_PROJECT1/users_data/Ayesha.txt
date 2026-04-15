@@ -1,0 +1,7 @@
+{
+    "username": "Ayesha",
+    "email": "ayesha@gmail.com",
+    "password": "8c45abec852336f41e752bd911473854bacd7ee29e9d940d73caed53a2acb675",
+    "balance": 10000,
+    "portfolio": {}
+}

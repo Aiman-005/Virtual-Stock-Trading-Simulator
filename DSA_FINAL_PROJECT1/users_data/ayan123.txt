@@ -1,0 +1,10 @@
+{
+    "username": "ayan123",
+    "email": "ayanaarshad@gmail.com",
+    "password": "5802b2732355f01fbfb12792dfb8c6ed42a32e6da3b420a0990f47f1004596b8",
+    "balance": 298.2698974609375,
+    "portfolio": {
+        "PSO": 21,
+        "LUCK": 1
+    }
+}

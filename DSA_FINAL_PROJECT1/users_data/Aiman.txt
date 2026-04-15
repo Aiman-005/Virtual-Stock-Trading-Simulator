@@ -1,0 +1,7 @@
+{
+    "username": "Aiman",
+    "email": "abc@gmail.com",
+    "password": "a8592f8ea59c29840937f149ee5baa3fca501a10386623ee6e1932eedab608e9",
+    "balance": 10400.0,
+    "portfolio": {}
+}

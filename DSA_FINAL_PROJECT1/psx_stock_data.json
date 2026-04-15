@@ -1,0 +1,106 @@
+{
+    "timestamp": "2025-11-27T20:06:26.548571",
+    "total_stocks": 10,
+    "stocks": [
+        {
+            "Symbol": "OGDC",
+            "Sector": "Oil & Gas",
+            "Current Price": 253.6199951171875,
+            "Volume": 4156348,
+            "Change (%)": 1.69,
+            "Previous Close": 249.39999389648438,
+            "Last Updated": "2025-11-27T20:06:16.807155",
+            "Error": null
+        },
+        {
+            "Symbol": "HBL",
+            "Sector": "Banking",
+            "Current Price": 300.95001220703125,
+            "Volume": 2235403,
+            "Change (%)": 2.49,
+            "Previous Close": 293.6499938964844,
+            "Last Updated": "2025-11-27T20:06:17.635866",
+            "Error": null
+        },
+        {
+            "Symbol": "PSO",
+            "Sector": "Oil Marketing",
+            "Current Price": 446.239990234375,
+            "Volume": 3168193,
+            "Change (%)": 1.07,
+            "Previous Close": 441.5199890136719,
+            "Last Updated": "2025-11-27T20:06:18.451540",
+            "Error": null
+        },
+        {
+            "Symbol": "LUCK",
+            "Sector": "Cement",
+            "Current Price": 436.70001220703125,
+            "Volume": 1197282,
+            "Change (%)": 1.43,
+            "Previous Close": 430.5299987792969,
+            "Last Updated": "2025-11-27T20:06:19.166046",
+            "Error": null
+        },
+        {
+            "Symbol": "MCB",
+            "Sector": "Banking",
+            "Current Price": 351.70001220703125,
+            "Volume": 262544,
+            "Change (%)": 0.48,
+            "Previous Close": 350.0199890136719,
+            "Last Updated": "2025-11-27T20:06:19.992633",
+            "Error": null
+        },
+        {
+            "Symbol": "MARI",
+            "Sector": "Oil & Gas",
+            "Current Price": 700.9400024414062,
+            "Volume": 898908,
+            "Change (%)": 0.6,
+            "Previous Close": 696.72998046875,
+            "Last Updated": "2025-11-27T20:06:20.759386",
+            "Error": null
+        },
+        {
+            "Symbol": "TRG",
+            "Sector": "Technology",
+            "Current Price": 70.08000183105469,
+            "Volume": 4529703,
+            "Change (%)": -0.27,
+            "Previous Close": 70.2699966430664,
+            "Last Updated": "2025-11-27T20:06:21.523615",
+            "Error": null
+        },
+        {
+            "Symbol": "SYS",
+            "Sector": "Technology",
+            "Current Price": 146.94000244140625,
+            "Volume": 1890176,
+            "Change (%)": 0.07,
+            "Previous Close": 146.8300018310547,
+            "Last Updated": "2025-11-27T20:06:23.093560",
+            "Error": null
+        },
+        {
+            "Symbol": "SEARL",
+            "Sector": "Textiles",
+            "Current Price": 102.22000122070312,
+            "Volume": 2742877,
+            "Change (%)": 0.59,
+            "Previous Close": 101.62000274658203,
+            "Last Updated": "2025-11-27T20:06:23.968520",
+            "Error": null
+        },
+        {
+            "Symbol": "FFC",
+            "Sector": "Fertilizer",
+            "Current Price": 589.4299926757812,
+            "Volume": 3794944,
+            "Change (%)": 3.2,
+            "Previous Close": 571.1300048828125,
+            "Last Updated": "2025-11-27T20:06:26.121325",
+            "Error": null
+        }
+    ]
+}

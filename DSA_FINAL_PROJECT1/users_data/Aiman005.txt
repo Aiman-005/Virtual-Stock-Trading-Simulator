@@ -1,0 +1,10 @@
+{
+    "username": "Aiman005",
+    "email": "farooquiaiman169@gmail.com",
+    "password": "5802b2732355f01fbfb12792dfb8c6ed42a32e6da3b420a0990f47f1004596b8",
+    "balance": 204575.3000640869,
+    "portfolio": {
+        "LUCK": 10,
+        "SYS": 5
+    }
+}

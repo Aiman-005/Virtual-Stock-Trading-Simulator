@@ -1,0 +1,7 @@
+{
+    "username": "Laiba",
+    "email": "laiba@gmail.com",
+    "password": "a8d6eb3bb4720c63db16c9a9a280ccf188401a712d9e442e712010b4dd488cf5",
+    "balance": 10000,
+    "portfolio": {}
+}

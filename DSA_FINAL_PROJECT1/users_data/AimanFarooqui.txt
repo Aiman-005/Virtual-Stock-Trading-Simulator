@@ -1,0 +1,10 @@
+{
+    "username": "AimanFarooqui",
+    "email": "aiman@gmail.com",
+    "password": "33500a23e4baaa959d19626025aa284d15ca5ec452235d032968aad9f49493dd",
+    "balance": 5471.719970703125,
+    "portfolio": {
+        "MCB": 10,
+        "TRG": 12
+    }
+}
